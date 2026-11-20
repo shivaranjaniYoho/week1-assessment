@@ -1,0 +1,11 @@
+employee_id,name,department,salary,city,joining_date
+101,Arun,IT,35000,Chennai,2022-01-15
+102,Priya,HR,30000,Bangalore,2021-06-10
+103,Rahul,Finance,40000,Chennai,2020-03-20
+104,Divya,IT,45000,Hyderabad,2023-02-12
+105,Kiran,HR,28000,Chennai,2022-09-05
+106,Meena,Finance,38000,Bangalore,2021-11-18
+107,Vijay,IT,50000,Chennai,2019-07-25
+108,Anu,HR,32000,Hyderabad,2023-05-14
+109,Santhosh,Finance,42000,Chennai,2020-12-01
+110,Kavya,IT,36000,Bangalore,2022-04-22
